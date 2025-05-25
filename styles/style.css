@@ -1,0 +1,46 @@
+
+
+
+.regular{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+}
+
+.bold{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:800;
+  font-style: normal;
+}
+
+.light{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:800;
+  font-style: normal;
+}
+
+*{
+  font-family: "Montserrat", sans-serif;
+
+}
+
+.ending{
+    background-image:url('https://newsroom.amref.org/wp-content/uploads/2024/05/5.-DYK-scaled.jpg')
+    min-height:100px;
+    width:100vw;
+    color:green;
+}
+.image{
+    background-image:url('https://newsroom.amref.org/wp-content/uploads/2024/05/5.-DYK-scaled.jpg');
+    background-size:300%;
+    background-origin:center;
+    background-position-x:30%;
+
+}
+
+#intro-form{
+    backdrop-filter:blur(5px);
+}
