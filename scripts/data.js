@@ -243,16 +243,6 @@ const data = [
     answer: "E. Rats"
   },
   {
-    question: "When did Russia declared war on Ukraine?",
-    answers: [
-      "A. 20 February, 2022",
-      "B. 24 February, 2022",
-      "C. 26 February, 2022",
-      "D. 18 February, 2022"
-    ],
-    answer: "B. 24 February, 2022"
-  },
-  {
     question: "District health system comprises of the following levels:",
     answers: [
       "A. Health Post, Health Centre, Hospital",
