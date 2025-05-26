@@ -19,13 +19,20 @@
             HSA ONLINE QUESTIONS
         </div>
     </div>
-
     <div class="account d-flex justify-content-center align-content-center mt-5">
-        <h6 class="fw-light">NAME:<span id="name"></span class="fw-light"></h6>
-         <h6 class="ms-3 fw-light">PROGRESS:<span id="progress"></span class="fw-light"></h6>
+  <!-- details from local storage database named 'database' with objects {name:string ,currentQuestion:number} -->
+        <h6 class="fw-bold"><i class="bi bi-person-circle"></i>NAME:<span id="name"></span class="fw-light"></h6>
+         <h6 class="ms-3 fw-light"><i class="bi bi-trophy-fill"></i>Progress:<span id="progress"></span class="fw-light"></h6>
 
     </div>
-    <div id="feedback" class="m-3"></div>
+
+    
+    <div id="feedback" class="m-3">
+<div class="alert alert-success text-success">we fixed some questions that had errors</div>
+</div>
+<center>
+    <i class="bi bi-question-circle-fill"></i>
+</center>
 
   <div class="h-50 container mt-2">
     <div id="question" class="text-center fs-3 fw-bold mb-3">Whats your name?</div>
