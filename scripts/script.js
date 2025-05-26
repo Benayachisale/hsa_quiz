@@ -107,6 +107,7 @@ function checkAnswer() {
     }
   }
   initialize()
+updateProgress()
 }
 
 // Add event listener to the submit button
@@ -154,3 +155,15 @@ resetBtn.addEventListener('click',()=>{
     localStorage.removeItem('database')
     window.location.reload()
 })
+
+//progress bar
+const bar=document.getElementById('bar');
+function updateProgress(){
+    let total=data.length;
+    let percentage=Math.round((current/total)*100);
+    console.log(percentage)
+    
+    bar.style.width=`${percentage}%`;
+}
+
+updateProgress()
