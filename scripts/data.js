@@ -188,17 +188,6 @@ const data = [
     answer: "A. Males were more affected by cholera than females"
   },
   {
-    question: "The following are the common methods used to inspect various food items in Malawi I. Percussion II. Palpation III. Observation IV. Tasting V. Smelling",
-    answers: [
-      "A (I, II, III & IV)",
-      "B (I, II, III, & V)",
-      "C (II, III & IV)",
-      "D (II, III & V)",
-      "E (All of the above)"
-    ],
-    answer: "E (All of the above)"
-  },
-  {
     question: "Pneumonia and Cough belongs to a group of ARI diseases. What does ARI stand for?",
     answers: [
       "A. Abnormal Rectal Infection",
@@ -234,17 +223,6 @@ const data = [
     answer: "B. 0.05 ml"
   },
   {
-    question: "Which of the following are symptoms of Vitamin A deficiency? I. Night blindness II. Anemia III. Scars in the eye IV. Frequent infections V. Dizziness",
-    answers: [
-      "A (I, II & V)",
-      "B (II, III & IV)",
-      "C (I, III, IV)",
-      "D (I, IV & V)",
-      "E (All of the above)"
-    ],
-    answer: "C (I, III, IV)"
-  },
-  {
     question: "When was Corona Virus Disease declared a National Disaster in Malawi by former President Arthur Peter Mutharika?",
     answers: [
       "A. 31st December 2019",
@@ -255,17 +233,6 @@ const data = [
     answer: "C. 20th March 2020"
   },
   {
-    question: "The following are names of Covid 19 vaccine currently administered in Malawi, except: i. Pfizer ii. Johnson and Johnson iii. Covax iv. Astrazeneca v. Mordena",
-    answers: [
-      "A (i, ii & iv)",
-      "B (i & iii)",
-      "C (iii & v)",
-      "D (ii, iii & v)",
-      "E (All of the above)"
-    ],
-    answer: "C (iii & v)"
-  },
-  {
     question: "What do we call the proportion of cases for a particular condition in the surveyed population of interest and it includes both new and old cases?",
     answers: ["A. Incidence", "B. Prevalence", "C. Case fatality rate", "D. Attack rate"],
     answer: "B. Prevalence"
@@ -274,18 +241,6 @@ const data = [
     question: "Which of these vectors or vermin transmit plague?",
     answers: ["A. Water snail", "B. Tsetse fly", "C. Mosquito", "D. Black fly", "E. Rats"],
     answer: "E. Rats"
-  },
-  {
-    question: "Which of the following chemicals, insecticides and pesticides have a knock down effect on vectors and vermin? I. Cislin II. Fendona III. Doom IV. Storm V. Actellic",
-    answers: [
-      "A (I & II)",
-      "B (II & III)",
-      "C (III & IV)",
-      "D (IV & V)",
-      "E (All of the above)",
-      "F (None of the above)"
-    ],
-    answer: "E (All of the above)"
   },
   {
     question: "When did Russia declared war on Ukraine?",
@@ -334,17 +289,6 @@ const data = [
     answer: "B. Salt"
   },
   {
-    question: "The following are common types of malnutrition in Malawi? I. Under weight II. Stunting III. Wasting IV. Protein Energy malnutrition V. Vitamin A deficiency",
-    answers: [
-      "A (I, III & IV)",
-      "B (I, II & V)",
-      "C (II, III & IV)",
-      "D (All of the above)",
-      "E (None of the above)"
-    ],
-    answer: "D (All of the above)"
-  },
-  {
     question: "Who is the current Principal Secretary (PS) for Ministry of Health?",
     answers: [
       "A. Dr. Dan Namarika",
@@ -364,19 +308,7 @@ const data = [
     question: "In order to confirm measles outbreak in a community, a sample should be taken from the suspects for analysis and confirmation. What is the recommended type of sample for measles outbreak confirmation?",
     answers: ["A. Blood", "B. Urine", "C. Stool", "D. Saliva"],
     answer: "A. Blood"
-  },
-  {
-    question: "Hand washing plays a key role in prevention of water and sanitation related diseases. What are the four critical times for hand washing at community level? I. Before start any work II. After defecation/ using toilets III. Drinking water IV. Before feeding a baby/breastfeeding V. Before distributing drugs VI. Before preparing food/Handling food VII. After changing a baby's nappy",
-    answers: [
-      "A (I, IV, VI & VII)",
-      "B (II, IV, VI & VII)",
-      "C (III, V, VI & VII)",
-      "D (I, III, VI & VII)",
-      "E (All of the above)"
-    ],
-    answer: "B (II, IV, VI & VII)"
-  },
-  {
+  },{
     question: "Worm Infestation is a condition whereby a person has worms in the body. Which of the following worms enter the human body through penetration of the skin by larvae through bare feet?",
     answers: ["A. Round worms", "B. Hook worms", "C. Pin worms", "D. Tape worms"],
     answer: "B. Hook worms"
